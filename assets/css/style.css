@@ -1,0 +1,29 @@
+@import url(fonts.css);
+@import url(global.css);
+
+.panel-wrapper,
+.panel-display  {
+    border: 7px solid #bdbdbd;
+    border-radius: 25px;
+    padding: 60px;
+}
+
+.panel-display {
+    margin-bottom: 35px;
+}
+
+.panel-nav {
+    display: flex;
+    gap: 25px;
+}
+
+.svg-wrapper {
+    width: 100%;
+    height: auto;
+}
+
+.animation-path.active,
+.btn.active  {
+    background-color: #00ee00;
+    stroke: #00ee00;
+}

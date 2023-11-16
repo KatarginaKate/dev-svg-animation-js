@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("../fonts/ProximaNovaCond-Regular.eot");
+  src: local("Proxima Nova Condensed Regular"), local("ProximaNovaCond-Regular"),
+    url("../fonts/ProximaNovaCond-Regular.eot") format("embedded-opentype"),
+    url("../fonts/ProximaNovaCond-Regular.woff") format("woff"),
+    url("../fonts/ProximaNovaCond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("../fonts/ProximaNovaSemibolt.eot");
+  src: local("Proxima Nova Semibolt"), local("ProximaNovaSemibolt"),
+    url("../fonts/ProximaNovaSemibolt.eot") format("embedded-opentype"),
+    url("../fonts/ProximaNovaSemibolt.woff") format("woff"),
+    url("../fonts/ProximaNovaSemibolt.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+.font-proxima-nova {
+  font-family: "Proxima Nova";
+  font-size: large;
+}
+.font-Bricolage {
+  font-family: "Bricolage Grotesque";
+}
+.font-TiltPrisme {
+  font-family: "Tilt Prism", cursive;
+}
+.font-Pacifico {
+  font-family: "Pacifico", cursive;
+}
+.font-example {
+  margin: 50px;
+  font-size: 28px;
+}
+.fs {
+  font-style: italic;
+}
+.fw-100 {
+  font-weight: 100;
+}
+
+.fw-200 {
+  font-weight: 200;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fw-800 {
+  font-weight: 800;
+}
+.fw-900 {
+  font-weight: 900;
+}
